@@ -1,0 +1,22 @@
+{
+	"zipcode": "55423",
+	"channel": "BBY",
+	"timeTaken": 126.0,
+	"skuList": [{
+		"sku": "5015616",
+		"sal": "BBY_9034",
+		"sallocationType": "DDC",
+		"availableDate": "2016-11-16",
+		"pfn": "",
+		"availableFromUnplannedInv": "N",
+		"errorCode": ""
+	}, {
+		"sku": "5015616",
+		"sal": "BBY_9034",
+		"sallocationType": "DDC",
+		"availableDate": "2016-11-16",
+		"pfn": "",
+		"availableFromUnplannedInv": "N",
+		"errorCode": ""
+	}]
+}
